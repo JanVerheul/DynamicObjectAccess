@@ -1,0 +1,13 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# IDE
+/.settings
+.project
+
+# dependencies
+/project
+
+# production
+/target
+
+# misc
